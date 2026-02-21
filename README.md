@@ -3,7 +3,7 @@ Overmap Pruner for [Cataclysm: Bright Night](https://github.com/cataclysmbn/Cata
 
 I made this to use with [Sky Island](https://github.com/graysonchao/CBN-Sky-Island) mod, but might be useful for other purposes.
 
-This was created with the help of LLM, so you shouldn't consider this as a reliable reference.
+I made this tool with the help of LLM, so you shouldn't consider this as a reliable reference.
 
 If you have any ideas for improving this, feel free to submit a pull request and ping me at the BN discord.
 
