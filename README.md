@@ -78,7 +78,7 @@ README Korean Version : https://github.com/Fruitybite/BN-Overmap-Pruner/blob/mai
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --remove-grid`
 
-  **--verify-against VERIFY_AGAINST** : Compare map.sqlite3 and other seperate map.sqlite3 file.
+  **--verify-against VERIFY_AGAINST** : Compare map.sqlite3 and other seperate `map.sqlite3` file.
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --verify-against map_old.sqlite3`
 
@@ -86,6 +86,6 @@ README Korean Version : https://github.com/Fruitybite/BN-Overmap-Pruner/blob/mai
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --verify-against map_old.sqlite3 --verify-only`
 
-  **db** : Path to map.sqlite3.
+  **db** : Path to `map.sqlite3`.
 
-  If omitted, will try ./map.sqlite3 in the script folder.
+  If omitted, will try `./map.sqlite3` in the script folder.
