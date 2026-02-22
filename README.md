@@ -7,6 +7,8 @@ I made this tool with the help of LLM, so you shouldn't consider this as a relia
 
 If you have any ideas for improving this, feel free to submit a pull request and ping me at the BN discord.
 
+README Korean Version : https://github.com/Fruitybite/BN-Overmap-Pruner/blob/main/README_KO.md
+
 ## Usage
 0. BACKUP YOUR SAVE FILE BEFORE USE
    - I tested this before uploading, but this may cause critical errors and/or even save file corruption.
