@@ -80,7 +80,7 @@ LLM의 도움을 받아 만들었으므로 너무 신뢰하면 곤란합니다.
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --verify-against map_old.sqlite3`
 
-  **--verify-only** : `--verify-against' 옵션과 함께 사용하여 검증 과정만 진행하고 청소 절차는 진행하지 않습니다.
+  **--verify-only** : `--verify-against` 옵션과 함께 사용하여 검증 과정만 진행하고 청소 절차는 진행하지 않습니다.
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --verify-against map_old.sqlite3 --verify-only`
 
