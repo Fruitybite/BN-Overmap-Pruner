@@ -76,7 +76,7 @@ LLM의 도움을 받아 만들었으므로 너무 신뢰하면 곤란합니다.
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --remove-grid`
 
-  **--verify-against VERIFY_AGAINST** : map.sqlite3 파일과 다른 map.sqlite3 파일을 비교 및 검증합니다.
+  **--verify-against VERIFY_AGAINST** : `map.sqlite3` 파일과 다른 `map.sqlite3` 파일을 비교 및 검증합니다.
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --verify-against map_old.sqlite3`
 
@@ -84,6 +84,6 @@ LLM의 도움을 받아 만들었으므로 너무 신뢰하면 곤란합니다.
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --verify-against map_old.sqlite3 --verify-only`
 
-  **db** : map.sqlite3 파일의 경로입니다.
+  **db** : `map.sqlite3` 파일의 경로입니다.
 
-  별도로 제시되지 않으면 툴이 위치한 폴더 내에서 map.sqlite3 파일을 찾아 사용하려 시도할 것입니다.
+  별도로 제시되지 않으면 툴이 위치한 폴더 내에서 `map.sqlite3` 파일을 찾아 사용하려 시도할 것입니다.
