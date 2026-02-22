@@ -82,7 +82,7 @@ README Korean Version : https://github.com/Fruitybite/BN-Overmap-Pruner/blob/mai
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --verify-against map_old.sqlite3`
 
-  **--verify-only** : Use with `--verify-against' option to run verification and do not prune.
+  **--verify-only** : Use with `--verify-against` option to run verification and do not prune.
 
   e.g.) `python overmap_pruner.py (--keep KEEP | --keep-file KEEP_FILE | --interactive) --verify-against map_old.sqlite3 --verify-only`
 
