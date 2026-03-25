@@ -21,7 +21,7 @@ README Korean Version : https://github.com/Fruitybite/BN-Overmap-Pruner/blob/mai
  6. Input the proper command with the coords
     - IMPORTANT : This tool deletes ALL overmaps and submaps except for those you specify.
     - Automatic backup : This tool will create auto-save file as `map.sqlite3.bak` (or similiar extensions) in the same directory. If something goes wrong, find and rename it. But please do not rely solely on this feature. I strongly recommend making a separate backup manually as well.
-    - START_PRUNING.bat will display GUI for easier coordinate inputting and pruning. Thanks to @Gukbapzip.
+    - `START_PRUNING.bat` will display GUI for easier coordinate inputting and pruning. Thanks to @Gukbapzip.
 
 ## Commands
 
